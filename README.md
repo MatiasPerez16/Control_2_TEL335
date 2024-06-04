@@ -7,6 +7,8 @@ Una vez que estés en la carpeta del proyecto, utiliza los siguientes comandos p
 
 cd .\mi-proyecto\
 
+Se instalan las dependencias con :  npm install
+
 Se instaló axios para realizar las solicitudes HTTP con : npm install axios
 
 npm start
