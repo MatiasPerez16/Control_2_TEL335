@@ -5,11 +5,11 @@
 
 Una vez que estés en la carpeta del proyecto, utiliza los siguientes comandos para ejecutar la aplicación:
 
-ccd .\mi-proyecto\
-
 Se instalan las dependencias con :  npm install
 
 Se instaló axios para realizar las solicitudes HTTP con : npm install axios
+
+Instalar date-fns: npm install date-fns
 
 npm start
 
